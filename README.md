@@ -19,7 +19,7 @@ python3 -m uvicorn main:app --reload
 
 
 ## API documentation
-1. GET `/` - Health check
+1. GET `/` - status check
 2. POST `/api/images` - Upload and process an image. supported formats: JPG, PNG
 3. GET `/api/images` - List all processed images
 4. GET `/api/images/{id}` - Get details of a specific image
