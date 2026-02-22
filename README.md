@@ -6,7 +6,7 @@ This project is an image processing pipeline API that automatically processes im
 ## Installation steps
 1. Install Python 3.12 and pip
 2. clone the respository:
-git clone <your-repo-url>
+git clone https://github.com/xiwen05/digital-forensics-image-api.git
 cd digital-forensics-image-api
 3. Create and activate a virtual environment:
 python3 -m venv HTX
